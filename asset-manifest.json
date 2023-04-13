@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JimpCRA/static/css/main.0f7cb616.css",
+    "main.js": "/JimpCRA/static/js/main.447a1153.js",
+    "static/js/787.43ee76f4.chunk.js": "/JimpCRA/static/js/787.43ee76f4.chunk.js",
+    "static/media/highcontrast.png": "/JimpCRA/static/media/highcontrast.6fc79733ca9362e0cc7b.png",
+    "static/media/optimal_saturation.png": "/JimpCRA/static/media/optimal_saturation.b00a2c465cc214bc1382.png",
+    "static/media/bright.png": "/JimpCRA/static/media/bright.701b312532b45dd41129.png",
+    "static/media/saturated.jpg": "/JimpCRA/static/media/saturated.39075ee5c6a8009cc22b.jpg",
+    "static/media/lowcontrast_1.png": "/JimpCRA/static/media/lowcontrast_1.a7f7b384e086b8003085.png",
+    "static/media/dark_1.jpg": "/JimpCRA/static/media/dark_1.fd365ed572c395426054.jpg",
+    "static/media/desaturated.jpg": "/JimpCRA/static/media/desaturated.5ef559e830666a7f255b.jpg",
+    "index.html": "/JimpCRA/index.html",
+    "main.0f7cb616.css.map": "/JimpCRA/static/css/main.0f7cb616.css.map",
+    "main.447a1153.js.map": "/JimpCRA/static/js/main.447a1153.js.map",
+    "787.43ee76f4.chunk.js.map": "/JimpCRA/static/js/787.43ee76f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f7cb616.css",
+    "static/js/main.447a1153.js"
+  ]
+}
