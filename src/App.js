@@ -136,7 +136,6 @@ function App () {
   }
 
   const handleSelectImg = (e) => {
-    console.log(e.target.src)
     setImage(e.target.src)
   }
 
@@ -197,6 +196,7 @@ function App () {
 
       <img src={image} width='200' />
       <input className='w-min text-center' accept='image/jpeg,image/png,image/gif,image/bmp' onChange={handleChange} type='file' hidden id='upload-input' />
+      Or upload your own:
       <label
         htmlFor='upload-input'
         className='transition-all duration-500 hover:shadow-md hover:bg-gray-400 hover:text-white cursor-pointer border border-gray-400 rounded-md px-4 py-2 caret-transparent'
