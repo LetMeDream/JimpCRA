@@ -143,7 +143,7 @@ function App () {
     <main className='flex min-h-screen flex-col items-center justify-center gap-2 px-16 py-2'>
       <h1>Jimp Test</h1>
       <p>Pick any img and test it:</p>
-      <div className='flex gap-2'>
+      <div className='flex flex-col md:flex-row gap-2'>
         <div className='brightness flex flex-col items-center p-2 border rounded-md'>
           Testing <strong>brightness</strong>
           <div className='flex gap-2'>
