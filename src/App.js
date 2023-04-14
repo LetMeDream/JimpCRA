@@ -152,7 +152,7 @@ function App () {
               onClick={handleSelectImg}
             />
             <img
-              src={light} alt='dark' className='w-24 cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
+              src={light} alt='light' className='w-24 cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
               onClick={handleSelectImg}
             />
           </div>
@@ -161,15 +161,15 @@ function App () {
           Testing <strong>Saturation</strong>
           <div className='flex gap-2'>
             <img
-              src={saturated} alt='dark' className='w-24 cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
+              src={saturated} alt='saturated' className='w-24 cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
               onClick={handleSelectImg}
             />
             <img
-              src={optimalSaturation} alt='dark' className='w-24 cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
+              src={optimalSaturation} alt='optimal' className='w-24 hidden md:block cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
               onClick={handleSelectImg}
             />
             <img
-              src={desaturated} alt='dark' className='w-24 cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
+              src={desaturated} alt='desaturated' className='w-24 cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
               onClick={handleSelectImg}
             />
           </div>
@@ -179,13 +179,13 @@ function App () {
           <div className='flex gap-2'>
             <img
               src={lowContrast}
-              alt='dark'
+              alt='lowContrast'
               className='w-24 cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
               onClick={handleSelectImg}
             />
             <img
               src={highContrast}
-              alt='dark'
+              alt='highContrast'
               className='w-24 cursor-pointer hover:scale-105 transition-all duration-500 rounded-sm hover:rounded-md'
               onClick={handleSelectImg}
             />
